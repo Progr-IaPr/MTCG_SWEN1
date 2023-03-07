@@ -1,0 +1,5 @@
+C:\Users\ianar\OneDrive\Desktop\FH - Technikum Wien\3.Semester\SWEN1\MTCG_Test\obj\Debug\net6.0\MTCG_Test.csproj.AssemblyReference.cache
+C:\Users\ianar\OneDrive\Desktop\FH - Technikum Wien\3.Semester\SWEN1\MTCG_Test\obj\Debug\net6.0\MTCG_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianar\OneDrive\Desktop\FH - Technikum Wien\3.Semester\SWEN1\MTCG_Test\obj\Debug\net6.0\MTCG_Test.AssemblyInfoInputs.cache
+C:\Users\ianar\OneDrive\Desktop\FH - Technikum Wien\3.Semester\SWEN1\MTCG_Test\obj\Debug\net6.0\MTCG_Test.AssemblyInfo.cs
+C:\Users\ianar\OneDrive\Desktop\FH - Technikum Wien\3.Semester\SWEN1\MTCG_Test\obj\Debug\net6.0\MTCG_Test.csproj.CoreCompileInputs.cache
